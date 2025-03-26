@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "b09ca08c82333d05",
+    "type": "split",
+    "children": [
+      {
+        "id": "232f6c13b88bd4e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45e4aded67e4ad39",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46551f99964fc1a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cfaf29c19642a52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224e220655e0f2b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0ee3598498ca559e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "85a2aef6760b8227",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5112611df9a834a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f6dc4e6d7f141ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "729dc5c9e3cb79d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sem título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Sem título"
+            }
+          },
+          {
+            "id": "8cd36efc168863cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sem título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Sem título"
+            }
+          },
+          {
+            "id": "423c7db6f751a062",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "40f36a5f2b889e3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sem título"
+            }
+          },
+          {
+            "id": "4ceea29532bfea44",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "224e220655e0f2b8",
+  "lastOpenFiles": [
+    "Banco-de-Dados",
+    "SQL",
+    "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321101620.png",
+    "SQL/Manipulação de Dados/DATABASES/MANIPULAÇÃO DE DATABASES.md",
+    "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321102320.png",
+    "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321094816.png",
+    "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321094544.png",
+    "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321094315.png",
+    "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321093625.png",
+    "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/MANIPULAÇÃO DE DADOS NA TABELA.md",
+    "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/Pasted image 20250319120709.png",
+    "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/Pasted image 20250319143415.png",
+    "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/Pasted image 20250320163216.png",
+    "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/Pasted image 20250320171907.png",
+    "MANIPULAÇÃO DE DADOS NA TABELA",
+    "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA",
+    "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE TABELAS/CRIAÇÃO DE TABELAS.md",
+    "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE TABELAS/EXCLUSÃO DE TABELAS.md",
+    "Manipulação de Dados/TABELAS/Sem título.md",
+    "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE TABELAS",
+    "SQL/Joins e Subconsultas/SUBQUERYS/SUBQUERYS.md",
+    "SQL/Joins e Subconsultas/JOINS/LEFT JOIN/LEFT JOIN.md",
+    "SQL/Joins e Subconsultas/JOINS/INNER JOIN/INNER JOIN.md",
+    "SQL/Joins e Subconsultas/JOINS/JOIN/JOIN.md",
+    "Joins e Subconsultas/JOINS/INNER JOIN.md",
+    "SQL/Joins e Subconsultas/JOINS/LEFT JOIN",
+    "SQL/Joins e Subconsultas/JOINS/INNER JOIN",
+    "SQL/Joins e Subconsultas/JOINS/JOIN",
+    "Joins e Subconsultas/JOINS/JOIN.md",
+    "Joins e Subconsultas/JOINS/LEFT JOIN.md",
+    "SQL/Funções e Agregações/SUM/SUM.md",
+    "SQL/Funções e Agregações/ORDER BY/ORDER BY.md",
+    "SQL/Funções e Agregações/MIN/MIN.md",
+    "SQL/Funções e Agregações/MAX/MAX.md",
+    "SQL/Funções e Agregações/GROUP BY/GOUP BY.md",
+    "SQL/Funções e Agregações/COUNT/COUNT.md",
+    "SQL/Funções e Agregações/AVG/AVG.md",
+    "SQL/Comandos Básicos/HAVING/HAVING.md",
+    "SQL/Comandos Básicos/SELECT/SELECT.md",
+    "SQL/Comandos Básicos/REGEXP/REGEXP.md",
+    "SQL/Comandos Básicos/OPERADORES MATEMATICOS/OPERADORES MATEMATICOS.md",
+    "SQL/Comandos Básicos/OPERADORES DE COMPARAÇÃO/OPERADORES DE COMPARAÇÃO.md",
+    "SQL/Comandos Básicos/NOT - AND NOT - AND/NOT.md",
+    "SQL/Manipulação de Dados/DATABASES",
+    "SQL/Manipulação de Dados/TABELAS",
+    "SQL/Joins e Subconsultas/SUBQUERYS"
+  ]
+}
