@@ -121,3 +121,5 @@ from rdb$relations r
 cross join usuarios u
 where r.rdb$system_flag = 0
 group by r.rdb$relation_name
+
+REVOKE ALL ON ALL FROM "JOAO.COSTA";
