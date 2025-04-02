@@ -11,10 +11,12 @@
             "id": "45e4aded67e4ad39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "image",
+              "state": {
+                "file": "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321101620.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250321101620"
             }
           }
         ]
@@ -175,17 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "224e220655e0f2b8",
+  "active": "45e4aded67e4ad39",
   "lastOpenFiles": [
-    "Banco-de-Dados",
-    "SQL",
-    "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321101620.png",
-    "SQL/Manipulação de Dados/DATABASES/MANIPULAÇÃO DE DATABASES.md",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321102320.png",
+    "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321101620.png",
+    "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321095001.png",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321094816.png",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321094544.png",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321094315.png",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321093625.png",
+    "Banco-de-Dados",
+    "SQL",
+    "SQL/Manipulação de Dados/DATABASES/MANIPULAÇÃO DE DATABASES.md",
     "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/MANIPULAÇÃO DE DADOS NA TABELA.md",
     "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/Pasted image 20250319120709.png",
     "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/Pasted image 20250319143415.png",
@@ -221,7 +224,6 @@
     "SQL/Comandos Básicos/OPERADORES DE COMPARAÇÃO/OPERADORES DE COMPARAÇÃO.md",
     "SQL/Comandos Básicos/NOT - AND NOT - AND/NOT.md",
     "SQL/Manipulação de Dados/DATABASES",
-    "SQL/Manipulação de Dados/TABELAS",
-    "SQL/Joins e Subconsultas/SUBQUERYS"
+    "SQL/Manipulação de Dados/TABELAS"
   ]
 }
