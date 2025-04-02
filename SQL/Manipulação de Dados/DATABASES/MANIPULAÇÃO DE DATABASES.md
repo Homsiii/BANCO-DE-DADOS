@@ -105,3 +105,19 @@ DROP USER 'novo_usuario'@'localhost';
 ### Conclusão
 
 A manipulação de databases e usuários é fundamental para a administração de um sistema de banco de dados. Compreender como criar databases, usuários, conceder e revogar permissões, e verificar informações de usuários ajuda a manter a segurança e integridade dos dados. É importante seguir boas práticas de segurança e gerenciar as permissões de forma adequada para proteger as informações sensíveis.
+
+
+
+with usuarios (nome) as (
+
+select
+    trim(u.sec$user_name)
+from sec$users u
+where u.sec$user_name <> 'SYSDBA')
+
+select
+    cast('grant select on ' || trim(r.rdb$relation_name) ||  ' to '   || list('"'||u.nome||'"')  || ';' as varchar(1000))
+from rdb$relations r
+cross join usuarios u
+where r.rdb$system_flag = 0
+group by r.rdb$relation_name
