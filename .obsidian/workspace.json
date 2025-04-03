@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Manipulação de Dados/DATABASES/MANIPULAÇÃO DE DATABASES.md",
+                "file": "SQL/Comandos Básicos/LIKE/LIKE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MANIPULAÇÃO DE DATABASES"
+              "title": "LIKE"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "45e4aded67e4ad39",
   "lastOpenFiles": [
+    "SQL/Manipulação de Dados/DATABASES/MANIPULAÇÃO DE DATABASES.md",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321094315.png",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321093625.png",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321094544.png",
@@ -190,12 +191,10 @@
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321102320.png",
     "Banco-de-Dados",
     "SQL",
-    "SQL/Manipulação de Dados/DATABASES/MANIPULAÇÃO DE DATABASES.md",
     "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/MANIPULAÇÃO DE DADOS NA TABELA.md",
     "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/Pasted image 20250319120709.png",
     "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/Pasted image 20250319143415.png",
     "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/Pasted image 20250320163216.png",
-    "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA/Pasted image 20250320171907.png",
     "MANIPULAÇÃO DE DADOS NA TABELA",
     "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE DADOS NA TABELA",
     "SQL/Manipulação de Dados/TABELAS/MANIPULAÇÃO DE TABELAS/CRIAÇÃO DE TABELAS.md",
