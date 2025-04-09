@@ -11,14 +11,12 @@
             "id": "45e4aded67e4ad39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SQL/Comandos Básicos/LIKE/LIKE.md",
-                "mode": "source",
-                "source": false
+                "file": "SQL/Comandos Básicos/SELECT/Pasted image 20250318171532.png"
               },
-              "icon": "lucide-file",
-              "title": "LIKE"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250318171532"
             }
           }
         ]
@@ -181,6 +179,7 @@
   },
   "active": "45e4aded67e4ad39",
   "lastOpenFiles": [
+    "SQL/Comandos Básicos/LIKE/LIKE.md",
     "SQL/Manipulação de Dados/DATABASES/MANIPULAÇÃO DE DATABASES.md",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321094315.png",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321093625.png",
