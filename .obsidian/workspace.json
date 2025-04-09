@@ -11,12 +11,14 @@
             "id": "45e4aded67e4ad39",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "SQL/Comandos Básicos/SELECT/Pasted image 20250318171532.png"
+                "file": "SQL/Funções e Agregações/GROUP BY/GOUP BY.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250318171532"
+              "icon": "lucide-file",
+              "title": "GOUP BY"
             }
           }
         ]
@@ -179,6 +181,7 @@
   },
   "active": "45e4aded67e4ad39",
   "lastOpenFiles": [
+    "SQL/Comandos Básicos/SELECT/Pasted image 20250318171532.png",
     "SQL/Comandos Básicos/LIKE/LIKE.md",
     "SQL/Manipulação de Dados/DATABASES/MANIPULAÇÃO DE DATABASES.md",
     "SQL/Manipulação de Dados/DATABASES/Pasted image 20250321094315.png",
@@ -222,7 +225,6 @@
     "SQL/Comandos Básicos/REGEXP/REGEXP.md",
     "SQL/Comandos Básicos/OPERADORES MATEMATICOS/OPERADORES MATEMATICOS.md",
     "SQL/Comandos Básicos/OPERADORES DE COMPARAÇÃO/OPERADORES DE COMPARAÇÃO.md",
-    "SQL/Comandos Básicos/NOT - AND NOT - AND/NOT.md",
     "SQL/Manipulação de Dados/DATABASES",
     "SQL/Manipulação de Dados/TABELAS"
   ]
